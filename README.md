@@ -9,11 +9,6 @@ YOY Growth in Average Price
 Cars Sold Metrics:
 YTD Cars Sold
 YOY Growth in Cars Sold
-
-
-Problem Statement 2: Charts Requirement
-
-
 YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
 YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
 YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a donut chart.
