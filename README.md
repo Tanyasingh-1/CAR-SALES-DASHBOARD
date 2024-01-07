@@ -1,14 +1,5 @@
 # CAR-SALES-DASHBOARD
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
-Sales Overview:
-Year-to-Date (YTD) Total Sales
-Year-over-Year (YOY) Growth in Total Sales
-Average Price Analysis:
-YTD Average Price
-YOY Growth in Average Price
-Cars Sold Metrics:
-YTD Cars Sold
-YOY Growth in Cars Sold
 YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
 YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
 YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a donut chart.
